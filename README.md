@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3PfvY8n3hX/giphy.gif" width="300"/>
-</div>
+
 
 # Hi there, I'm Nguyen Minh Triet Luu! 👋
 
