@@ -32,6 +32,3 @@ I'm a **Computer Programming and Analysis** student at **George Brown College** 
   </a> 
 </p>
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fel1x210&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fel1x210&layout=compact&theme=radical&hide=html,css)
