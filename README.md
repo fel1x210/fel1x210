@@ -1,5 +1,4 @@
 
-
 # Hi there, I'm Nguyen Minh Triet Luu! 👋
 
 I'm a **Computer Programming and Analysis** student at **George Brown College** in Toronto.
@@ -8,6 +7,8 @@ I'm a **Computer Programming and Analysis** student at **George Brown College** 
 - 💻 My main focus is **Backend Development** using **Java**, **C#**, and **JavaScript**.
 - ⚛️ I also build user interfaces using **React**.
 - 🌱 I’m currently refining my skills in Microservices and Mobile Development.
+
+<img width="630" height="824" alt="Himeno_v2" src="https://github.com/user-attachments/assets/bdf83713-938c-411b-951a-9c38b71a5316" />
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
